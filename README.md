@@ -1,2 +1,2 @@
 # BasicArduino
-- Arduino to Arduino I2C Communication
+- i2c >> Arduino to Arduino I2C Communication
